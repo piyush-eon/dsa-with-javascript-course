@@ -48,4 +48,4 @@ function reverse(nums, left, right) {
   }
 }
 
-console.log(rotateArrayOptimised([-1, -100, 3, 99], 2));
+console.log(rotateArrayOptimised([-1, -100, 3, 99], 4));
